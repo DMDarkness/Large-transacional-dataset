@@ -4,8 +4,6 @@ Many researches about association rules mining and frequent itemsets mining need
 This dataset contains 2458285 transactions and 396 items. It is transformed from the data USCensus1990 [1] which can be founded in https://archive.ics.uci.edu/ml/datasets/US+Census+Data+%281990%29.
 ## SUSYd5t
 This dataset contains 5000000 transactions and 92 items. It is transformed from the data SUSY [2] which can be founded in https://archive.ics.uci.edu/ml/datasets/SUSY.
-## SUSYd10t
-This dataset contains 5000000 transactions and 182 items. It is transformed from the data SUSY [2] which can be founded in https://archive.ics.uci.edu/ml/datasets/SUSY.
 ## reference
 [1] Meek, Thiesson, and Heckerman (2001), "The Learning Curve Method Applied to Clustering", to appear in The Journal of Machine Learning Research.
 
